@@ -1,0 +1,452 @@
+time,geo,Prices,Seasonal adjustment,values,na_item,North American Industry Classification System (NAICS),Type of fuel
+2018-01-01,Canada,NA,NA,247630357,Qoil,NA,NA
+2018-04-01,Canada,NA,NA,365977668,Qoil,NA,NA
+2018-07-01,Canada,NA,NA,387366655,Qoil,NA,NA
+2018-10-01,Canada,NA,NA,401651231,Qoil,NA,NA
+2019-01-01,Canada,NA,NA,375560259,Qoil,NA,NA
+2019-04-01,Canada,NA,NA,384701698,Qoil,NA,NA
+2019-07-01,Canada,NA,NA,388520110,Qoil,NA,NA
+2019-10-01,Canada,NA,NA,403252079,Qoil,NA,NA
+2020-01-01,Canada,NA,NA,399881551,Qoil,NA,NA
+2020-04-01,Canada,NA,NA,335596418,Qoil,NA,NA
+2020-07-01,Canada,NA,NA,346611115,Qoil,NA,NA
+2020-10-01,Canada,NA,NA,393987839,Qoil,NA,NA
+2021-01-01,Canada,NA,NA,391087970,Qoil,NA,NA
+2021-04-01,Canada,NA,NA,374623639,Qoil,NA,NA
+2021-07-01,Canada,NA,NA,393864162,Qoil,NA,NA
+2021-10-01,Canada,NA,NA,408226179,Qoil,NA,NA
+2022-01-01,Canada,NA,NA,391447804,Qoil,NA,NA
+2022-04-01,Canada,NA,NA,385383161,Qoil,NA,NA
+2022-07-01,Canada,NA,NA,411057262,Qoil,NA,NA
+2022-10-01,Canada,NA,NA,415539298,Qoil,NA,NA
+2023-01-01,Canada,NA,NA,401880381,Qoil,NA,NA
+2023-04-01,Canada,NA,NA,379617250,Qoil,NA,NA
+2023-07-01,Canada,NA,NA,413215732,Qoil,NA,NA
+2023-10-01,Canada,NA,NA,431466015,Qoil,NA,NA
+2024-01-01,Canada,NA,NA,415331344,Qoil,NA,NA
+2024-04-01,Canada,NA,NA,406081520,Qoil,NA,NA
+2024-07-01,Canada,NA,NA,421629515,Qoil,NA,NA
+2024-10-01,Canada,NA,NA,443626311,Qoil,NA,NA
+2025-01-01,Canada,NA,NA,430468585,Qoil,NA,NA
+2025-04-01,Canada,NA,NA,412160486,Qoil,NA,NA
+2025-07-01,Canada,NA,NA,449202647,Qoil,NA,NA
+2018-01-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,35.15,OilNetBack,NA,NA
+2018-04-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,45.06,OilNetBack,NA,NA
+2018-07-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,43.43,OilNetBack,NA,NA
+2018-10-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,15.36,OilNetBack,NA,NA
+2019-01-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,38.9,OilNetBack,NA,NA
+2019-04-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,45.26,OilNetBack,NA,NA
+2019-07-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,40.27,OilNetBack,NA,NA
+2019-10-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,37.11,OilNetBack,NA,NA
+2020-01-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,21.99,OilNetBack,NA,NA
+2020-04-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,12.97,OilNetBack,NA,NA
+2020-07-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,28.37,OilNetBack,NA,NA
+2020-10-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,29.8,OilNetBack,NA,NA
+2021-01-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,41.82,OilNetBack,NA,NA
+2021-04-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,51.05,OilNetBack,NA,NA
+2021-07-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,53.42,OilNetBack,NA,NA
+2021-10-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,58.54,OilNetBack,NA,NA
+2022-01-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,75.76,OilNetBack,NA,NA
+2022-04-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,91.58,OilNetBack,NA,NA
+2022-07-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,67.73,OilNetBack,NA,NA
+2022-10-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,53.03,OilNetBack,NA,NA
+2023-01-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,47.43,OilNetBack,NA,NA
+2023-04-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,54.84,OilNetBack,NA,NA
+2023-07-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,66.75,OilNetBack,NA,NA
+2023-10-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,53.78,OilNetBack,NA,NA
+2024-01-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,54.97,OilNetBack,NA,NA
+2024-04-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,64.5,OilNetBack,NA,NA
+2024-07-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,58.99,OilNetBack,NA,NA
+2024-10-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,55.17,OilNetBack,NA,NA
+2025-01-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,56.25,OilNetBack,NA,NA
+2025-04-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,51,OilNetBack,NA,NA
+2025-07-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,51.97,OilNetBack,NA,NA
+2018-01-01,Canada,NA,NA,42310,Koil,NA,NA
+2018-04-01,Canada,NA,NA,42310,Koil,NA,NA
+2018-07-01,Canada,NA,NA,42310,Koil,NA,NA
+2018-10-01,Canada,NA,NA,42310,Koil,NA,NA
+2019-01-01,Canada,NA,NA,37866,Koil,NA,NA
+2019-04-01,Canada,NA,NA,37866,Koil,NA,NA
+2019-07-01,Canada,NA,NA,37866,Koil,NA,NA
+2019-10-01,Canada,NA,NA,37866,Koil,NA,NA
+2020-01-01,Canada,NA,NA,25158,Koil,NA,NA
+2020-04-01,Canada,NA,NA,25158,Koil,NA,NA
+2020-07-01,Canada,NA,NA,25158,Koil,NA,NA
+2020-10-01,Canada,NA,NA,25158,Koil,NA,NA
+2021-01-01,Canada,NA,NA,27930,Koil,NA,NA
+2021-04-01,Canada,NA,NA,27930,Koil,NA,NA
+2021-07-01,Canada,NA,NA,27930,Koil,NA,NA
+2021-10-01,Canada,NA,NA,27930,Koil,NA,NA
+2022-01-01,Canada,NA,NA,36627,Koil,NA,NA
+2022-04-01,Canada,NA,NA,36627,Koil,NA,NA
+2022-07-01,Canada,NA,NA,36627,Koil,NA,NA
+2022-10-01,Canada,NA,NA,36627,Koil,NA,NA
+2023-01-01,Canada,NA,NA,40235,Koil,NA,NA
+2023-04-01,Canada,NA,NA,40235,Koil,NA,NA
+2023-07-01,Canada,NA,NA,40235,Koil,NA,NA
+2023-10-01,Canada,NA,NA,40235,Koil,NA,NA
+2024-01-01,Canada,NA,NA,39532,Koil,NA,NA
+2024-04-01,Canada,NA,NA,39532,Koil,NA,NA
+2024-07-01,Canada,NA,NA,39532,Koil,NA,NA
+2024-10-01,Canada,NA,NA,39532,Koil,NA,NA
+2025-01-01,Canada,NA,NA,36790,Koil,NA,NA
+2025-04-01,Canada,NA,NA,36790,Koil,NA,NA
+2025-07-01,Canada,NA,NA,36790,Koil,NA,NA
+2025-10-01,Canada,NA,NA,36790,Koil,NA,NA
+2018-01-01,Canada,NA,NA,0,Uwar,NA,NA
+2018-04-01,Canada,NA,NA,0,Uwar,NA,NA
+2018-07-01,Canada,NA,NA,0,Uwar,NA,NA
+2018-10-01,Canada,NA,NA,0,Uwar,NA,NA
+2019-01-01,Canada,NA,NA,0,Uwar,NA,NA
+2019-04-01,Canada,NA,NA,0,Uwar,NA,NA
+2019-07-01,Canada,NA,NA,0,Uwar,NA,NA
+2019-10-01,Canada,NA,NA,0,Uwar,NA,NA
+2020-01-01,Canada,NA,NA,0,Uwar,NA,NA
+2020-04-01,Canada,NA,NA,0,Uwar,NA,NA
+2020-07-01,Canada,NA,NA,0,Uwar,NA,NA
+2020-10-01,Canada,NA,NA,0,Uwar,NA,NA
+2021-01-01,Canada,NA,NA,0,Uwar,NA,NA
+2021-04-01,Canada,NA,NA,0,Uwar,NA,NA
+2021-07-01,Canada,NA,NA,0,Uwar,NA,NA
+2021-10-01,Canada,NA,NA,0,Uwar,NA,NA
+2022-01-01,Canada,NA,NA,0,Uwar,NA,NA
+2022-04-01,Canada,NA,NA,1,Uwar,NA,NA
+2022-07-01,Canada,NA,NA,1,Uwar,NA,NA
+2022-10-01,Canada,NA,NA,0,Uwar,NA,NA
+2023-01-01,Canada,NA,NA,0,Uwar,NA,NA
+2023-04-01,Canada,NA,NA,0,Uwar,NA,NA
+2023-07-01,Canada,NA,NA,0,Uwar,NA,NA
+2023-10-01,Canada,NA,NA,0,Uwar,NA,NA
+2024-01-01,Canada,NA,NA,0,Uwar,NA,NA
+2024-04-01,Canada,NA,NA,0,Uwar,NA,NA
+2024-07-01,Canada,NA,NA,0,Uwar,NA,NA
+2024-10-01,Canada,NA,NA,0,Uwar,NA,NA
+2025-01-01,Canada,NA,NA,0,Uwar,NA,NA
+2025-04-01,Canada,NA,NA,0,Uwar,NA,NA
+2025-07-01,Canada,NA,NA,0,Uwar,NA,NA
+2025-10-01,Canada,NA,NA,0,Uwar,NA,NA
+2018-01-01,Canada,NA,NA,199697,VAManuwoREF,NA,NA
+2018-04-01,Canada,NA,NA,203235,VAManuwoREF,NA,NA
+2018-07-01,Canada,NA,NA,201469,VAManuwoREF,NA,NA
+2018-10-01,Canada,NA,NA,201463,VAManuwoREF,NA,NA
+2019-01-01,Canada,NA,NA,202022,VAManuwoREF,NA,NA
+2019-04-01,Canada,NA,NA,203190,VAManuwoREF,NA,NA
+2019-07-01,Canada,NA,NA,201424,VAManuwoREF,NA,NA
+2019-10-01,Canada,NA,NA,200049,VAManuwoREF,NA,NA
+2020-01-01,Canada,NA,NA,189363,VAManuwoREF,NA,NA
+2020-04-01,Canada,NA,NA,160719,VAManuwoREF,NA,NA
+2020-07-01,Canada,NA,NA,191482,VAManuwoREF,NA,NA
+2020-10-01,Canada,NA,NA,194871,VAManuwoREF,NA,NA
+2021-01-01,Canada,NA,NA,197371,VAManuwoREF,NA,NA
+2021-04-01,Canada,NA,NA,194236,VAManuwoREF,NA,NA
+2021-07-01,Canada,NA,NA,194520,VAManuwoREF,NA,NA
+2021-10-01,Canada,NA,NA,199453,VAManuwoREF,NA,NA
+2022-01-01,Canada,NA,NA,202372,VAManuwoREF,NA,NA
+2022-04-01,Canada,NA,NA,201000,VAManuwoREF,NA,NA
+2022-07-01,Canada,NA,NA,199370,VAManuwoREF,NA,NA
+2022-10-01,Canada,NA,NA,196338,VAManuwoREF,NA,NA
+2023-01-01,Canada,NA,NA,201107,VAManuwoREF,NA,NA
+2023-04-01,Canada,NA,NA,201401,VAManuwoREF,NA,NA
+2023-07-01,Canada,NA,NA,198867,VAManuwoREF,NA,NA
+2023-10-01,Canada,NA,NA,196178,VAManuwoREF,NA,NA
+2024-01-01,Canada,NA,NA,194422,VAManuwoREF,NA,NA
+2024-04-01,Canada,NA,NA,194188,VAManuwoREF,NA,NA
+2024-07-01,Canada,NA,NA,193979,VAManuwoREF,NA,NA
+2024-10-01,Canada,NA,NA,192498,VAManuwoREF,NA,NA
+2025-01-01,Canada,NA,NA,192263,VAManuwoREF,NA,NA
+2025-04-01,Canada,NA,NA,187757,VAManuwoREF,NA,NA
+2025-07-01,Canada,NA,NA,188488,VAManuwoREF,NA,NA
+2025-10-01,Canada,NA,NA,185118,VAManuwoREF,NA,NA
+2018-01-01,Canada,NA,NA,12692,VAREF,NA,NA
+2018-04-01,Canada,NA,NA,10746,VAREF,NA,NA
+2018-07-01,Canada,NA,NA,12938,VAREF,NA,NA
+2018-10-01,Canada,NA,NA,12384,VAREF,NA,NA
+2019-01-01,Canada,NA,NA,11674,VAREF,NA,NA
+2019-04-01,Canada,NA,NA,11664,VAREF,NA,NA
+2019-07-01,Canada,NA,NA,12084,VAREF,NA,NA
+2019-10-01,Canada,NA,NA,12353,VAREF,NA,NA
+2020-01-01,Canada,NA,NA,12218,VAREF,NA,NA
+2020-04-01,Canada,NA,NA,10281,VAREF,NA,NA
+2020-07-01,Canada,NA,NA,10596,VAREF,NA,NA
+2020-10-01,Canada,NA,NA,11993,VAREF,NA,NA
+2021-01-01,Canada,NA,NA,11497,VAREF,NA,NA
+2021-04-01,Canada,NA,NA,11308,VAREF,NA,NA
+2021-07-01,Canada,NA,NA,11727,VAREF,NA,NA
+2021-10-01,Canada,NA,NA,11720,VAREF,NA,NA
+2022-01-01,Canada,NA,NA,12019,VAREF,NA,NA
+2022-04-01,Canada,NA,NA,11641,VAREF,NA,NA
+2022-07-01,Canada,NA,NA,11847,VAREF,NA,NA
+2022-10-01,Canada,NA,NA,11497,VAREF,NA,NA
+2023-01-01,Canada,NA,NA,11918,VAREF,NA,NA
+2023-04-01,Canada,NA,NA,12613,VAREF,NA,NA
+2023-07-01,Canada,NA,NA,11745,VAREF,NA,NA
+2023-10-01,Canada,NA,NA,11631,VAREF,NA,NA
+2024-01-01,Canada,NA,NA,11656,VAREF,NA,NA
+2024-04-01,Canada,NA,NA,11983,VAREF,NA,NA
+2024-07-01,Canada,NA,NA,12243,VAREF,NA,NA
+2024-10-01,Canada,NA,NA,12498,VAREF,NA,NA
+2025-01-01,Canada,NA,NA,12476,VAREF,NA,NA
+2025-04-01,Canada,NA,NA,11337,VAREF,NA,NA
+2025-07-01,Canada,NA,NA,12319,VAREF,NA,NA
+2025-10-01,Canada,NA,NA,12807,VAREF,NA,NA
+2018-01-01,Canada,NA,NA,NA,REFoil_L1,NA,NA
+2018-04-01,Canada,NA,NA,29086998,REFoil_L1,NA,NA
+2018-07-01,Canada,NA,NA,23848484,REFoil_L1,NA,NA
+2018-10-01,Canada,NA,NA,29893969,REFoil_L1,NA,NA
+2019-01-01,Canada,NA,NA,27697028,REFoil_L1,NA,NA
+2019-04-01,Canada,NA,NA,27615270,REFoil_L1,NA,NA
+2019-07-01,Canada,NA,NA,27681695,REFoil_L1,NA,NA
+2019-10-01,Canada,NA,NA,29432705,REFoil_L1,NA,NA
+2020-01-01,Canada,NA,NA,28008183,REFoil_L1,NA,NA
+2020-04-01,Canada,NA,NA,27108450,REFoil_L1,NA,NA
+2020-07-01,Canada,NA,NA,21308587,REFoil_L1,NA,NA
+2020-10-01,Canada,NA,NA,24709634,REFoil_L1,NA,NA
+2021-01-01,Canada,NA,NA,25975852,REFoil_L1,NA,NA
+2021-04-01,Canada,NA,NA,24519928,REFoil_L1,NA,NA
+2021-07-01,Canada,NA,NA,24041314,REFoil_L1,NA,NA
+2021-10-01,Canada,NA,NA,26944632,REFoil_L1,NA,NA
+2022-01-01,Canada,NA,NA,26525917,REFoil_L1,NA,NA
+2022-04-01,Canada,NA,NA,26243524,REFoil_L1,NA,NA
+2022-07-01,Canada,NA,NA,25838249,REFoil_L1,NA,NA
+2022-10-01,Canada,NA,NA,29171380,REFoil_L1,NA,NA
+2023-01-01,Canada,NA,NA,27679141,REFoil_L1,NA,NA
+2023-04-01,Canada,NA,NA,27884134,REFoil_L1,NA,NA
+2023-07-01,Canada,NA,NA,28095783,REFoil_L1,NA,NA
+2023-10-01,Canada,NA,NA,29164112,REFoil_L1,NA,NA
+2024-01-01,Canada,NA,NA,28526998,REFoil_L1,NA,NA
+2024-04-01,Canada,NA,NA,27941617,REFoil_L1,NA,NA
+2024-07-01,Canada,NA,NA,27289140,REFoil_L1,NA,NA
+2024-10-01,Canada,NA,NA,30166232,REFoil_L1,NA,NA
+2025-01-01,Canada,NA,NA,30122672,REFoil_L1,NA,NA
+2025-04-01,Canada,NA,NA,28462122,REFoil_L1,NA,NA
+2025-07-01,Canada,NA,NA,27385333,REFoil_L1,NA,NA
+2025-10-01,Canada,NA,NA,30730987,REFoil_L1,NA,NA
+2018-01-01,Canada,NA,NA,29086998,REFoil,NA,NA
+2018-04-01,Canada,NA,NA,23848484,REFoil,NA,NA
+2018-07-01,Canada,NA,NA,29893969,REFoil,NA,NA
+2018-10-01,Canada,NA,NA,27697028,REFoil,NA,NA
+2019-01-01,Canada,NA,NA,27615270,REFoil,NA,NA
+2019-04-01,Canada,NA,NA,27681695,REFoil,NA,NA
+2019-07-01,Canada,NA,NA,29432705,REFoil,NA,NA
+2019-10-01,Canada,NA,NA,28008183,REFoil,NA,NA
+2020-01-01,Canada,NA,NA,27108450,REFoil,NA,NA
+2020-04-01,Canada,NA,NA,21308587,REFoil,NA,NA
+2020-07-01,Canada,NA,NA,24709634,REFoil,NA,NA
+2020-10-01,Canada,NA,NA,25975852,REFoil,NA,NA
+2021-01-01,Canada,NA,NA,24519928,REFoil,NA,NA
+2021-04-01,Canada,NA,NA,24041314,REFoil,NA,NA
+2021-07-01,Canada,NA,NA,26944632,REFoil,NA,NA
+2021-10-01,Canada,NA,NA,26525917,REFoil,NA,NA
+2022-01-01,Canada,NA,NA,26243524,REFoil,NA,NA
+2022-04-01,Canada,NA,NA,25838249,REFoil,NA,NA
+2022-07-01,Canada,NA,NA,29171380,REFoil,NA,NA
+2022-10-01,Canada,NA,NA,27679141,REFoil,NA,NA
+2023-01-01,Canada,NA,NA,27884134,REFoil,NA,NA
+2023-04-01,Canada,NA,NA,28095783,REFoil,NA,NA
+2023-07-01,Canada,NA,NA,29164112,REFoil,NA,NA
+2023-10-01,Canada,NA,NA,28526998,REFoil,NA,NA
+2024-01-01,Canada,NA,NA,27941617,REFoil,NA,NA
+2024-04-01,Canada,NA,NA,27289140,REFoil,NA,NA
+2024-07-01,Canada,NA,NA,30166232,REFoil,NA,NA
+2024-10-01,Canada,NA,NA,30122672,REFoil,NA,NA
+2025-01-01,Canada,NA,NA,28462122,REFoil,NA,NA
+2025-04-01,Canada,NA,NA,27385333,REFoil,NA,NA
+2025-07-01,Canada,NA,NA,30730987,REFoil,NA,NA
+2018-01-01,Canada,NA,NA,90.9,CUref,NA,NA
+2018-04-01,Canada,NA,NA,87.5,CUref,NA,NA
+2018-07-01,Canada,NA,NA,88.83,CUref,NA,NA
+2018-10-01,Canada,NA,NA,85.9,CUref,NA,NA
+2019-01-01,Canada,NA,NA,86.17,CUref,NA,NA
+2019-04-01,Canada,NA,NA,85.73,CUref,NA,NA
+2019-07-01,Canada,NA,NA,84.67,CUref,NA,NA
+2019-10-01,Canada,NA,NA,86.67,CUref,NA,NA
+2020-01-01,Canada,NA,NA,75.93,CUref,NA,NA
+2020-04-01,Canada,NA,NA,66.87,CUref,NA,NA
+2020-07-01,Canada,NA,NA,76.6,CUref,NA,NA
+2020-10-01,Canada,NA,NA,78.1,CUref,NA,NA
+2021-01-01,Canada,NA,NA,81.53,CUref,NA,NA
+2021-04-01,Canada,NA,NA,81.5,CUref,NA,NA
+2021-07-01,Canada,NA,NA,86.4,CUref,NA,NA
+2021-10-01,Canada,NA,NA,85.17,CUref,NA,NA
+2022-01-01,Canada,NA,NA,90.17,CUref,NA,NA
+2022-04-01,Canada,NA,NA,85.07,CUref,NA,NA
+2022-07-01,Canada,NA,NA,86.3,CUref,NA,NA
+2022-10-01,Canada,NA,NA,83.47,CUref,NA,NA
+2023-01-01,Canada,NA,NA,87.8,CUref,NA,NA
+2023-04-01,Canada,NA,NA,85,CUref,NA,NA
+2023-07-01,Canada,NA,NA,87.87,CUref,NA,NA
+2023-10-01,Canada,NA,NA,80.97,CUref,NA,NA
+2024-01-01,Canada,NA,NA,89.63,CUref,NA,NA
+2024-04-01,Canada,NA,NA,85.1,CUref,NA,NA
+2024-07-01,Canada,NA,NA,90.17,CUref,NA,NA
+2024-10-01,Canada,NA,NA,91.87,CUref,NA,NA
+2025-01-01,Canada,NA,NA,87.07,CUref,NA,NA
+2025-04-01,Canada,NA,NA,76.47,CUref,NA,NA
+2025-07-01,Canada,NA,NA,90.97,CUref,NA,NA
+2018-01-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-4.91,CrackSpread,NA,NA
+2018-04-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-7.79,CrackSpread,NA,NA
+2018-07-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-9.22,CrackSpread,NA,NA
+2018-10-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,9.95,CrackSpread,NA,NA
+2019-01-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-6.44,CrackSpread,NA,NA
+2019-04-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-7.11,CrackSpread,NA,NA
+2019-07-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-4.73,CrackSpread,NA,NA
+2019-10-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-1.28,CrackSpread,NA,NA
+2020-01-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,6.04,CrackSpread,NA,NA
+2020-04-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,7.67,CrackSpread,NA,NA
+2020-07-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-3.95,CrackSpread,NA,NA
+2020-10-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-1.46,CrackSpread,NA,NA
+2021-01-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-10.47,CrackSpread,NA,NA
+2021-04-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-10.92,CrackSpread,NA,NA
+2021-07-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-15.72,CrackSpread,NA,NA
+2021-10-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-18.28,CrackSpread,NA,NA
+2022-01-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-30.87,CrackSpread,NA,NA
+2022-04-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-14.47,CrackSpread,NA,NA
+2022-07-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-13.1,CrackSpread,NA,NA
+2022-10-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,4.61,CrackSpread,NA,NA
+2023-01-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-4.68,CrackSpread,NA,NA
+2023-04-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-12.4,CrackSpread,NA,NA
+2023-07-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-15.7,CrackSpread,NA,NA
+2023-10-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-11.12,CrackSpread,NA,NA
+2024-01-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-13.62,CrackSpread,NA,NA
+2024-04-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-22.38,CrackSpread,NA,NA
+2024-07-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-18.99,CrackSpread,NA,NA
+2024-10-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-16.86,CrackSpread,NA,NA
+2025-01-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-12.25,CrackSpread,NA,NA
+2025-04-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,-1.93,CrackSpread,NA,NA
+2025-07-01,Canada,Chained (2017) dollars,Seasonally adjusted at annual rates,0.22,CrackSpread,NA,NA
+2018-01-01,Canada,NA,NA,1833314.8,Qgas,NA,NA
+2018-04-01,Canada,NA,NA,1772294.7,Qgas,NA,NA
+2018-07-01,Canada,NA,NA,1779562.1,Qgas,NA,NA
+2018-10-01,Canada,NA,NA,1817006.1,Qgas,NA,NA
+2019-01-01,Canada,NA,NA,1763820.5,Qgas,NA,NA
+2019-04-01,Canada,NA,NA,1705449.2,Qgas,NA,NA
+2019-07-01,Canada,NA,NA,1689867.3,Qgas,NA,NA
+2019-10-01,Canada,NA,NA,1778767,Qgas,NA,NA
+2020-01-01,Canada,NA,NA,1745741.3,Qgas,NA,NA
+2020-04-01,Canada,NA,NA,1683232.2,Qgas,NA,NA
+2020-07-01,Canada,NA,NA,1634224.9,Qgas,NA,NA
+2020-10-01,Canada,NA,NA,1725095.3,Qgas,NA,NA
+2021-01-01,Canada,NA,NA,1707646,Qgas,NA,NA
+2021-04-01,Canada,NA,NA,1708636.2,Qgas,NA,NA
+2021-07-01,Canada,NA,NA,1799638.1,Qgas,NA,NA
+2021-10-01,Canada,NA,NA,1844204.4,Qgas,NA,NA
+2022-01-01,Canada,NA,NA,1839681.7,Qgas,NA,NA
+2022-04-01,Canada,NA,NA,1872336.2,Qgas,NA,NA
+2022-07-01,Canada,NA,NA,1904857.9,Qgas,NA,NA
+2022-10-01,Canada,NA,NA,1961264,Qgas,NA,NA
+2023-01-01,Canada,NA,NA,1966710,Qgas,NA,NA
+2023-04-01,Canada,NA,NA,1867426.3,Qgas,NA,NA
+2023-07-01,Canada,NA,NA,1946043.8,Qgas,NA,NA
+2023-10-01,Canada,NA,NA,2020599.7,Qgas,NA,NA
+2024-01-01,Canada,NA,NA,2006708.6,Qgas,NA,NA
+2024-04-01,Canada,NA,NA,1949653.2,Qgas,NA,NA
+2024-07-01,Canada,NA,NA,1933859.2,Qgas,NA,NA
+2024-10-01,Canada,NA,NA,2088612.9,Qgas,NA,NA
+2025-01-01,Canada,NA,NA,2066864.5,Qgas,NA,NA
+2025-04-01,Canada,NA,NA,2016029.5,Qgas,NA,NA
+2025-07-01,Canada,NA,NA,2014256.2,Qgas,NA,NA
+2018-01-01,Canada,NA,NA,1.5,NetBackGas,NA,NA
+2018-04-01,Canada,NA,NA,0.75,NetBackGas,NA,NA
+2018-07-01,Canada,NA,NA,0.86,NetBackGas,NA,NA
+2018-10-01,Canada,NA,NA,1.32,NetBackGas,NA,NA
+2019-01-01,Canada,NA,NA,1.69,NetBackGas,NA,NA
+2019-04-01,Canada,NA,NA,0.71,NetBackGas,NA,NA
+2019-07-01,Canada,NA,NA,0.63,NetBackGas,NA,NA
+2019-10-01,Canada,NA,NA,1.83,NetBackGas,NA,NA
+2020-01-01,Canada,NA,NA,1.64,NetBackGas,NA,NA
+2020-04-01,Canada,NA,NA,1.44,NetBackGas,NA,NA
+2020-07-01,Canada,NA,NA,1.65,NetBackGas,NA,NA
+2020-10-01,Canada,NA,NA,2.15,NetBackGas,NA,NA
+2021-01-01,Canada,NA,NA,2.42,NetBackGas,NA,NA
+2021-04-01,Canada,NA,NA,2.35,NetBackGas,NA,NA
+2021-07-01,Canada,NA,NA,2.82,NetBackGas,NA,NA
+2021-10-01,Canada,NA,NA,3.98,NetBackGas,NA,NA
+2022-01-01,Canada,NA,NA,3.91,NetBackGas,NA,NA
+2022-04-01,Canada,NA,NA,5.68,NetBackGas,NA,NA
+2022-07-01,Canada,NA,NA,4.11,NetBackGas,NA,NA
+2022-10-01,Canada,NA,NA,4.54,NetBackGas,NA,NA
+2023-01-01,Canada,NA,NA,3.25,NetBackGas,NA,NA
+2023-04-01,Canada,NA,NA,1.81,NetBackGas,NA,NA
+2023-07-01,Canada,NA,NA,1.89,NetBackGas,NA,NA
+2023-10-01,Canada,NA,NA,1.89,NetBackGas,NA,NA
+2024-01-01,Canada,NA,NA,1.67,NetBackGas,NA,NA
+2024-04-01,Canada,NA,NA,0.74,NetBackGas,NA,NA
+2024-07-01,Canada,NA,NA,0.26,NetBackGas,NA,NA
+2024-10-01,Canada,NA,NA,0.93,NetBackGas,NA,NA
+2025-01-01,Canada,NA,NA,1.37,NetBackGas,NA,NA
+2025-04-01,Canada,NA,NA,1.2,NetBackGas,NA,NA
+2025-07-01,Canada,NA,NA,0.37,NetBackGas,NA,NA
+2018-01-01,Canada,NA,NA,29568,Kgas,NA,NA
+2018-04-01,Canada,NA,NA,29568,Kgas,NA,NA
+2018-07-01,Canada,NA,NA,29568,Kgas,NA,NA
+2018-10-01,Canada,NA,NA,29568,Kgas,NA,NA
+2019-01-01,Canada,NA,NA,26935,Kgas,NA,NA
+2019-04-01,Canada,NA,NA,26935,Kgas,NA,NA
+2019-07-01,Canada,NA,NA,26935,Kgas,NA,NA
+2019-10-01,Canada,NA,NA,26935,Kgas,NA,NA
+2020-01-01,Canada,NA,NA,17636,Kgas,NA,NA
+2020-04-01,Canada,NA,NA,17636,Kgas,NA,NA
+2020-07-01,Canada,NA,NA,17636,Kgas,NA,NA
+2020-10-01,Canada,NA,NA,17636,Kgas,NA,NA
+2021-01-01,Canada,NA,NA,19190,Kgas,NA,NA
+2021-04-01,Canada,NA,NA,19190,Kgas,NA,NA
+2021-07-01,Canada,NA,NA,19190,Kgas,NA,NA
+2021-10-01,Canada,NA,NA,19190,Kgas,NA,NA
+2022-01-01,Canada,NA,NA,25735,Kgas,NA,NA
+2022-04-01,Canada,NA,NA,25735,Kgas,NA,NA
+2022-07-01,Canada,NA,NA,25735,Kgas,NA,NA
+2022-10-01,Canada,NA,NA,25735,Kgas,NA,NA
+2023-01-01,Canada,NA,NA,29370,Kgas,NA,NA
+2023-04-01,Canada,NA,NA,29370,Kgas,NA,NA
+2023-07-01,Canada,NA,NA,29370,Kgas,NA,NA
+2023-10-01,Canada,NA,NA,29370,Kgas,NA,NA
+2024-01-01,Canada,NA,NA,28589,Kgas,NA,NA
+2024-04-01,Canada,NA,NA,28589,Kgas,NA,NA
+2024-07-01,Canada,NA,NA,28589,Kgas,NA,NA
+2024-10-01,Canada,NA,NA,28589,Kgas,NA,NA
+2025-01-01,Canada,NA,NA,26722.14,Kgas,NA,NA
+2025-04-01,Canada,NA,NA,26722.14,Kgas,NA,NA
+2025-07-01,Canada,NA,NA,26722.14,Kgas,NA,NA
+2025-10-01,Canada,NA,NA,26722.14,Kgas,NA,NA
+2018-01-01,Canada,NA,NA,677032,StorageGas,NA,NA
+2018-04-01,Canada,NA,NA,643744.33,StorageGas,NA,NA
+2018-07-01,Canada,NA,NA,858640.23,StorageGas,NA,NA
+2018-10-01,Canada,NA,NA,925535.37,StorageGas,NA,NA
+2019-01-01,Canada,NA,NA,619015.07,StorageGas,NA,NA
+2019-04-01,Canada,NA,NA,613086.63,StorageGas,NA,NA
+2019-07-01,Canada,NA,NA,823867.93,StorageGas,NA,NA
+2019-10-01,Canada,NA,NA,883498.93,StorageGas,NA,NA
+2020-01-01,Canada,NA,NA,630328.7,StorageGas,NA,NA
+2020-04-01,Canada,NA,NA,720072.07,StorageGas,NA,NA
+2020-07-01,Canada,NA,NA,1005390.3,StorageGas,NA,NA
+2020-10-01,Canada,NA,NA,1051792.13,StorageGas,NA,NA
+2021-01-01,Canada,NA,NA,656802.6,StorageGas,NA,NA
+2021-04-01,Canada,NA,NA,659033.37,StorageGas,NA,NA
+2021-07-01,Canada,NA,NA,878136,StorageGas,NA,NA
+2021-10-01,Canada,NA,NA,927570.53,StorageGas,NA,NA
+2022-01-01,Canada,NA,NA,518896.63,StorageGas,NA,NA
+2022-04-01,Canada,NA,NA,526132,StorageGas,NA,NA
+2022-07-01,Canada,NA,NA,821957.23,StorageGas,NA,NA
+2022-10-01,Canada,NA,NA,891873.2,StorageGas,NA,NA
+2023-01-01,Canada,NA,NA,627578.03,StorageGas,NA,NA
+2023-04-01,Canada,NA,NA,733131.1,StorageGas,NA,NA
+2023-07-01,Canada,NA,NA,989672.4,StorageGas,NA,NA
+2023-10-01,Canada,NA,NA,1097640.7,StorageGas,NA,NA
+2024-01-01,Canada,NA,NA,836344.3,StorageGas,NA,NA
+2024-04-01,Canada,NA,NA,955114.37,StorageGas,NA,NA
+2024-07-01,Canada,NA,NA,1116955.7,StorageGas,NA,NA
+2024-10-01,Canada,NA,NA,1156301.3,StorageGas,NA,NA
+2025-01-01,Canada,NA,NA,791203.23,StorageGas,NA,NA
+2025-04-01,Canada,NA,NA,885149.13,StorageGas,NA,NA
+2025-07-01,Canada,NA,NA,1115521.67,StorageGas,NA,NA
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
